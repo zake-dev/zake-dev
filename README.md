@@ -26,7 +26,7 @@ ___
 
 📁 Side Projects
 - 📃 [rooka, (공군 훈련병 인터넷편지 서비스) <sub><sup>2022년 상반기</sup></sub>](https://github.com/zake-dev/rooka-web-front)
-- 📃 [서점도서관리시스템 <sub><sup>2020년 하반기</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
+- 📃 [서점도서관리시스템 <sub><sup>2021년 상반기</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
   
 📚 Study
 - 📃 [TIL](https://github.com/zake-dev/TIL)  
