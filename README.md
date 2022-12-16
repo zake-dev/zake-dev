@@ -29,6 +29,7 @@ ___
   
 📚 Study
 - 📃 [TIL](https://github.com/zake-dev/TIL)  
+- 📃 [frontendmentor.io](https://github.com/zake-dev/frontendmentor.io)
 
 
 <!---
