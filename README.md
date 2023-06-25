@@ -24,10 +24,12 @@
 ___
 
 📁 Side Projects
-- 📃 [On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ 2023.06</sup></sub>](https://github.com/super-board/app)
-- 📃 [rooka, (Email Delivery Service for Airforce Trainees) <sub><sup>20224</sup></sub>](https://github.com/zake-dev/rooka-web-front)
+- 📃 [On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ Now</sup></sub>](https://github.com/super-board/app)
+- 📃 [rooka, (Email Delivery Service for Airforce Trainees) <sub><sup>2021.09 ~ 2022.08</sup></sub>](https://github.com/zake-dev/rooka-web-front)
 - 📃 [Bookstore POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
 
+📋 Study
+- 📃 [Moolmorths, Simple Online Grocery Website <sub><sup>2023.04</sup></sub>](https://github.com/zake-dev/online-grocery-store-webapp)
 
 <!---
 [![zale-dev's github stats](https://github-readme-stats.vercel.app/api?username=zake-dev)](https://github.com/zake-dev)
