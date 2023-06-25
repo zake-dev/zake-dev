@@ -7,7 +7,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
@@ -24,7 +24,7 @@
 ___
 
 📁 Side Projects
-- 📃 On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ 2023.06</sup></sub>
+- 📃 [On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ 2023.06</sup></sub>](https://github.com/super-board/app)
 - 📃 [rooka, (Email Delivery Service for Airforce Trainees) <sub><sup>20224</sup></sub>](https://github.com/zake-dev/rooka-web-front)
 - 📃 [Bookstore POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
 
