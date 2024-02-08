@@ -1,6 +1,6 @@
 # Jeonghwan Lee (Zake)
 💻 Software Engineer   
-👨‍🎓 University of Technology, Sydney. B. Information Techonology.  
+👨‍🎓 University of Technology Sydney. B. Information Techonology.  
 📌 **[Email](mailto:floatim00@gmail.com)**
 
 **ROKAF Air Force Information Systems Management Group (공군 정보체계관리단)** <sub><sup> Intranet Software Engineer (2021.05.17 ~ 2022.11.14)</sup></sub>
@@ -32,6 +32,7 @@ ___
 
 📋 Study
 - 📃 [Moolmorths, Simple Online Grocery Website <sub><sup>2023.04</sup></sub>](https://github.com/zake-dev/online-grocery-store-webapp)
+- 📃 [TIL](https://github.com/zake-dev/TIL)
 
 <!---
 [![zale-dev's github stats](https://github-readme-stats.vercel.app/api?username=zake-dev)](https://github.com/zake-dev)
