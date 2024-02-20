@@ -25,7 +25,7 @@
 ___
 
 📁 Side Projects
-- 📃 [Texters (Text-Based Web Game Platform - Website) <sub><sup>2023.07 ~ Now</sup></sub>](https://www.texters.io)
+- 📃 [Texters (Text-Based Web Game Platform - Website) <sub><sup>2023.07 ~ Now</sup></sub>](https://github.com/team-ditt/texters-web-client)
 - 📃 [On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ 2023.07</sup></sub>](https://github.com/super-board/app)
 - 📃 [rooka, (Email Delivery Service for Airforce Trainees) <sub><sup>2021.09 ~ 2022.08</sup></sub>](https://github.com/zake-dev/rooka-web-front)
 - 📃 [Bookstore POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
