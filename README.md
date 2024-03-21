@@ -3,7 +3,7 @@
 👨‍🎓 University of Technology Sydney. B. Information Techonology.  
 📌 **[Email](mailto:floatim00@gmail.com)**
 
-**ROKAF Air Force Information Systems Management Group (공군 정보체계관리단)** <sub><sup> Intranet Software Engineer (2021.05.17 ~ 2022.11.14)</sup></sub>
+**공군 정보체계관리단** <sub><sup> 소프트웨어개발병 (2021.05.17 ~ 2022.11.14)</sup></sub>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -25,10 +25,10 @@
 ___
 
 📁 Side Projects
-- 📃 [Texters (Text-Based Web Game Platform - Website) <sub><sup>2023.07 ~ Now</sup></sub>](https://github.com/team-ditt/texters-web-client)
-- 📃 [On The Board (Board Game Review Community - Mobile App) <sub><sup>2023.01 ~ 2023.07</sup></sub>](https://github.com/super-board/app)
-- 📃 [rooka, (Email Delivery Service for Airforce Trainees) <sub><sup>2021.09 ~ 2022.08</sup></sub>](https://github.com/zake-dev/rooka-web-front)
-- 📃 [Bookstore POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
+- 📃 [텍스터즈 (멀티엔딩 웹소설 플랫폼 - Web) <sub><sup>2023.07 ~ 2023.12</sup></sub>](https://github.com/team-ditt/texters-web-client)
+- 📃 [온더보드 (보드게임 추천 및 리뷰 앱서비스 - Mobile) <sub><sup>2023.01 ~ 2023.07</sup></sub>](https://github.com/super-board/app)
+- 📃 [rooka, (공군 훈련병 인터넷편지 전달대행 서비스) <sub><sup>2021.09 ~ 2022.08</sup></sub>](https://github.com/zake-dev/rooka-web-front)
+- 📃 [서점도서관리시스템 POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
 
 📋 Study
 - 📃 [Moolmorths, Simple Online Grocery Website <sub><sup>2023.04</sup></sub>](https://github.com/zake-dev/online-grocery-store-webapp)
