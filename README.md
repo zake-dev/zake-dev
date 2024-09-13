@@ -3,7 +3,12 @@
 👨‍🎓 University of Technology Sydney. B. Information Techonology.  
 📌 **[Email](mailto:floatim00@gmail.com)**
 
+<details>
+<summary><b>크립토랩</b> <sub><sup> 프론트엔드 개발자 (2024.4.22 ~ Now)</sup></sub><br/>
+</summary>
+
 **공군 정보체계관리단** <sub><sup> 소프트웨어개발병 (2021.05.17 ~ 2022.11.14)</sup></sub>
+</details>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -30,9 +35,11 @@ ___
 - 📃 [rooka, (공군 훈련병 인터넷편지 전달대행 서비스) <sub><sup>2021.09 ~ 2022.08</sup></sub>](https://github.com/zake-dev/rooka-web-front)
 - 📃 [서점도서관리시스템 POS <sub><sup>2021</sup></sub>](https://github.com/zake-dev/bookstore-pos-react)
 
+<!--
 📋 Study
 - 📃 [Moolmorths, Simple Online Grocery Website <sub><sup>2023.04</sup></sub>](https://github.com/zake-dev/online-grocery-store-webapp)
 - 📃 [TIL](https://github.com/zake-dev/TIL)
+-->
 
 <!---
 [![zale-dev's github stats](https://github-readme-stats.vercel.app/api?username=zake-dev)](https://github.com/zake-dev)
